@@ -78,9 +78,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist & Analyst** who 
 
 I'd love to collaborate, discuss data science ideas, or just connect with fellow enthusiasts!
 
-- 📧 **Email:** [Add your email]
-- 💼 **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/harshitharam-linkcode1)
-- 🐦 **Twitter:** [Add your Twitter handle]
+- 📧 **Email:** [harshitharam5623@gmail.com]
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/harshitharam-linkcode1)
 - 🌐 **Portfolio:** [Add your portfolio link]
 - 💬 **Open to:** Collaboration, freelance projects, and data science discussions
 
