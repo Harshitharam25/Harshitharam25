@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 - [Article Title](link)
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](your-linkedin-url)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshitharam-linkcode1 )
 - 🐦 [Twitter](your-twitter-url)
 - 📧 Email: your-email@example.com
 - 🌐 Portfolio: [your-website.com](your-website-url)
