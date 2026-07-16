@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshitharam25
 
-<!--
-**Harshitharam25/Harshitharam25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building amazing projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Full-stack Developer
+- 🌍 Based in [Your City], India
+- 📚 Currently learning [technology you're learning]
+- 🎯 Passionate about [your interests]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Languages:** Python, JavaScript, Java
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Django, Flask
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools & Platforms:** Git, Docker, AWS, Linux
+
+## 📊 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshitharam25&show_icons=true&theme=radical)
+
+## 🏆 Featured Projects
+- [Project 1 Name](link) - Brief description
+- [Project 2 Name](link) - Brief description
+- [Project 3 Name](link) - Brief description
+
+## 📝 Latest Blog Posts (Optional)
+- [Article Title](link)
+- [Article Title](link)
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](your-linkedin-url)
+- 🐦 [Twitter](your-twitter-url)
+- 📧 Email: your-email@example.com
+- 🌐 Portfolio: [your-website.com](your-website-url)
+
+## ⭐ Support
+If you find my projects helpful, please consider giving them a ⭐
+
+---
+*Last updated: [Date]*
